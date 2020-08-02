@@ -1,0 +1,27 @@
+{
+  "name": "g-vus",
+  "version": "0.0.1",
+  "description": "This package provides the function which get all values of input element in specified custom element and class under shadowRoot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KASHIHARAAkira/g-vus.git"
+  },
+  "keywords": [
+    "webcomponents",
+    "custom",
+    "element",
+    "shadowRoot",
+    "input",
+    "value"
+  ],
+  "author": "Akira Kashihara <akira.kashihara@hotmail.com> (https://sites.google.com/alumni.tsukuba.ac.jp/akira/profile)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KASHIHARAAkira/g-vus/issues"
+  },
+  "homepage": "https://github.com/KASHIHARAAkira/g-vus#readme"
+}
